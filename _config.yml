@@ -25,7 +25,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Programming at Linnaeus University in Sweden.
 author: Mirjam Arvidsson
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://mirliz.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: mirreliz
 github_username:  Mirliz
 
