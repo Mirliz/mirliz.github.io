@@ -1,0 +1,10 @@
+/* TEAM */
+Role: Developer and Designer
+Name: Mirjam Arvidsson
+Site: https://github.com/mirliz
+Location: Nora, Sweden
+
+/* SITE */
+Last update: {{site.time | date: "%Y/%m/%d" }}
+Standards: HTML5, CSS3
+Components: Jekyll
